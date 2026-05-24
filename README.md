@@ -2,7 +2,9 @@
 
 ## Dashboard Link :
 
-https://app.powerbi.com/view?r=eyJrIjoiNTUzMGRkODAtNTZhNC00NzdlLWE2ZWItZGMxZGFiNzIzNTU1IiwidCI6IjA2Y2Q0ZWQ1LTNiN2YtNDdiMC04ZWY2LTI5ZGVlMWM1MDYwYiJ9&embedImagePlaceholder=true
+https://app.powerbi.com/view?r=eyJrIjoiNTUzMGRkODAtNTZhNC00NzdlLWE2ZWItZGMxZGFiNzIzNTU1IiwidCI6IjA2Y2Q0ZWQ1LTNiN2YtNDdiMC04ZWY2LTI5ZGVlMWM1MDYwYiJ9&embedImagePlaceholder=true&pageName=5da6bec6665b8ce7444a
+
+## Dashboard preview
 
 ![d1](https://github.com/user-attachments/assets/d0e6a8f5-faaa-4308-8ec2-e0ffa6769660)
 
